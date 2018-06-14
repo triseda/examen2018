@@ -1,7 +1,6 @@
 <?php
   namespace lib\utils;
 
-
   class Expresiones {
 
     public static function secuenciaParentesisBalanceada($cad){
@@ -11,7 +10,7 @@
         if($c==="(") $cont++;
         if($c===")") $cont--;
       }
-      return ($cont===0);
+      return ($cont===0) ;
     }
   }
 
