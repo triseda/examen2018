@@ -1,4 +1,4 @@
-## Tabla chula
+## Tabla de pruebas unitarias
 
 | entrada | salida | Descripcion|
 |--------- | ---------| ------------|
